@@ -1,0 +1,2 @@
+extension.chromium-updater
+==========================
